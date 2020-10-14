@@ -7,4 +7,24 @@ elif (szam == 2):
 	szoveg = str(input("DeKódolandó szöveg: "))
 else:
 	print("nincs ilyen lehetőség")
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+szoveg=""
+Kod="qwertzuiopőúöüóasdfghjkléáűíyxcvbnm"
+Dekod="mnbvcxyíűáélkjhgfdsaóüöúőpoiuztrewq"
+
+
 

@@ -3,6 +3,7 @@ print("1 = DeKód    2 = Kódol")
 szam = int(input("Kérem írja be a választott művelet számát: "))
 if (szam == 1):
 	szoveg = str(input("Kódolandó szöveg: "))
+	ls = [len(szöveg)]
 elif (szam == 2):
 	szoveg = str(input("DeKódolandó szöveg: "))
 else:
